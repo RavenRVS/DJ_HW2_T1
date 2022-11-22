@@ -1,6 +1,6 @@
 # Рецепты
 
-## Задание
+## Задание <a href="https://github.com/RavenRVS/DJ_HW2_T1/blob/master/calculator/views.py">(моё решение)</a>
 
 Ваша задача написать простой сервис-помощник для приготовления блюд.
 
